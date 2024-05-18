@@ -5,4 +5,4 @@
 Prueba - Animaciones CSS
 
 ## Descripción
-Para este desafío, se maqueto una página web con animaciones CSS. Se utilizó la propiedad `@keyframes` para crear animaciones personalizadas y se aplicaron a diferentes elementos de la página.
+Para este desafío, se maqueto una página web sobre Peaky Blinders, utilizando animaciones CSS y Flexbox para la estructura de la página.
